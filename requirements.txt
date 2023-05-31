@@ -1,0 +1,10 @@
+openai
+google-cloud-speech
+google-cloud-translate
+gtts
+html
+colorama
+termcolor
+art
+speechrecognition
+google-cloud-texttospeech
